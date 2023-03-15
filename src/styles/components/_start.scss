@@ -1,0 +1,31 @@
+
+.start {
+  margin: 30px auto 0;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 30px;
+  color: black;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.3s ease;
+
+  &:hover {
+  border-color: #FF6336;
+  }
+
+  
+  @media (min-width:1200px) {
+  margin: 30px 0 0 0;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 30px;
+  color: black;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.3s ease;
+
+  &:hover {
+  border-color: #FF6336;
+  }
+}
+}

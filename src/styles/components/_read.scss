@@ -1,0 +1,14 @@
+.read {
+  margin-top: 15px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 30px;
+  color: black;  
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.3s ease;
+
+&:hover {
+  border-color: black;
+}
+}

@@ -1,0 +1,24 @@
+//color gray
+$gray-100: #ccc;
+
+$base-color: blue;
+$base-font-sans-serif: 'Roboto', 'Arial', 'Helvetica Neue', 'Helvetica', sans-serif;
+$base-radius: 10px;
+
+// button
+$button-border-width: 2px;
+$button-border-style: solid;
+$button-border-color: red;
+$button-border: $button-border-width $button-border-style $button-border-color;
+
+
+// input
+$input-border-width: 2px;
+$input-border-style: solid;
+$input-border-color: red;
+$input-border: $input-border-width $input-border-style $input-border-color;
+$input-padding-x: 15px;
+$input-padding-y: 10px;
+$input-lineheight: 20px;
+$input-fz: 16px;
+$input-height: $input-lineheight + ($input-border-width * 2) + $input-padding-y;

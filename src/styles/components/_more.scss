@@ -1,0 +1,11 @@
+.more {
+  font-size: 20px;
+  line-height: 30px;
+  color: black;
+  margin-top: 30px;
+  transition: color 0.3s ease;
+
+&:hover {
+  color: #FF6336;
+}
+}
